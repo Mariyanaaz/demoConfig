@@ -1,0 +1,46 @@
+prac 1
+1)pageLifeCycle
+2)Post,cross,auto
+3)Salary
+4)electricity bill
+5)controls
+
+prac 2
+1)Calendar control  ->prac 2
+2)validation control(hotel bill) ->prac 2
+3)validation (student detail)->prac 2
+4)Job application ->prac 2
+5)AdRotator ->CollegeSport
+6)Masterpage,contentpage(Maha.Tourism) ->prac2_6
+
+prac 3
+1)Connected Arch. ->Practical_3
+2)Disconnected Arch. ->Practical_3
+3)Stored procedure ->Practical_3
+4)Data Bound Control (DetailView,DataList,etc) ->P3_DataBoundDataSource
+5)Linq (odd,even) ->Practical_3
+6)Linq to sql (EmployeeManagement)->dbDemo
+7)Entity framework -> Entity_framework_p3
+
+
+prac 4
+1)In-proc   -> prac4_StateManagement
+2)Out-proc
+3)
+a)Hidden   -> prac4_StateManagement/SessionManagement
+b)View state   -> prac4_StateManagement
+c)Query String  -> prac4_StateManagement
+d)cookies   -> prac4_StateManagement/SessionManagement
+e)Application
+f)Cache  -> prac4_StateManagement
+
+4)DigitalClock -> P4_AJAX
+5)Banner  -> CollegeBannerChanger
+6)update panel and update progress -> P4_AJAX
+7)paginated output
+
+prac 5
+1)XML calculator ->
+2)XML database
+3)WCF calculator
+4)WCF database
