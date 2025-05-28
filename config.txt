@@ -10,7 +10,7 @@ prac 2
 2)validation control(hotel bill) ->prac 2
 3)validation (student detail)->prac 2
 4)Job application ->prac 2
-5)AdRotator ->CollegeSport
+5)AdRotator ->CollegeSport/Practical_2
 6)Masterpage,contentpage(Maha.Tourism) ->prac2_6
 
 prac 3
